@@ -5,3 +5,5 @@ BUT
 Not my Life. 
 
 Help me find the color of my life! 
+
+What do you think is the color? 
