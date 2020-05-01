@@ -6,15 +6,9 @@ Not my Life.
 
 Help me find the color of my life! 
 
-
-
-
-
-
-
-
-
-
-
-
-What do you think is the color? 
+Will it be:
+1. Red
+2. Blue
+3. Green
+4. Black
+5. White
